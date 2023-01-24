@@ -19,11 +19,6 @@ npm i
 
 **After the _npm_ has been installed** 
 
-To get dist folder:
-```
-npm run build
-```
-
 To initialize server:
 ```
 npm run start:dev
